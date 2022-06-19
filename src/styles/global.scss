@@ -10,9 +10,9 @@
   --green-500: #04d361;
 
   --purple-300: #9f75ff;
-  --purple-400: #9f75ff;
-  --purple-500: #9f75ff;
-  --purple-800: #9f75ff;
+  --purple-400: #9164fa;
+  --purple-500: #8257e5;
+  --purple-600: #6f48c9;
 }
 
 * {
@@ -52,4 +52,7 @@ h2 {
 
 button {
   cursor: pointer;
+  background: transparent;
+  border: 0;
+  font-size: 0;
 }
