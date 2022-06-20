@@ -1,5 +1,5 @@
 :root {
-  --white: #ffffff;
+  --white: #fff;
 
   --gray-50: #f7f8fa;
   --gray-100: #e6e8eb;
@@ -12,7 +12,9 @@
   --purple-300: #9f75ff;
   --purple-400: #9164fa;
   --purple-500: #8257e5;
-  --purple-600: #6f48c9;
+  --purple-800: #6f48c9;
+
+  --header-height: 6.5rem;
 }
 
 * {
